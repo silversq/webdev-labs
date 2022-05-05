@@ -1,0 +1,3 @@
+1. What is the value of SQLAlchemy? It allows you to use python to configure SQL databases, and you can just use python commands for everything instead of SQL commands.
+2. What is a model? Models are classes that represent each table.
+3. What is a view? Views allow you to see your resources.
